@@ -1,0 +1,1 @@
+# skmr-eslint-config
